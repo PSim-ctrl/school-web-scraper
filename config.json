@@ -1,0 +1,1127 @@
+[
+    {
+        "college/university": "Assumption University",
+        "school name": "Assumption Greyhounds",
+        "website": "assumptiongreyhounds.com",
+        "urls": [
+            {
+                "url": "https://assumptiongreyhounds.com/sports/womens-ice-hockey/roster#sidearm-roster-coaches",
+                "category": "Women's College Hockey DI Coaches",
+                "location": "Massachusetts",
+                "conference": "NEWHA"
+            }
+        ],
+        "module": "parser.assumptiongreyhounds",
+        "class": "Parser"
+    },
+    {
+        "college/university": "Bemidji State University",
+        "school name": "Bemidji State Beavers",
+        "website": "bsubeavers.com",
+        "urls": [
+            {
+                "url": "https://bsubeavers.com/sports/womens-ice-hockey/roster#sidearm-roster-coaches",
+                "category": "Women's College Hockey DI Coaches",
+                "location": "Minnesota",
+                "conference": "WCHA"
+            }
+        ],
+        "module": "parser.bsubeavers",
+        "class": "Parser"
+    },
+    {
+        "college/university": "Boston College",
+        "school name": "Boston College Eagles",
+        "website": "bceagles.com",
+        "urls": [
+            {
+                "url": "https://bceagles.com/sports/womens-ice-hockey/roster#sidearm-roster-coaches",
+                "category": "Women's College Hockey DI Coaches",
+                "location": "Massachusetts",
+                "conference": "Hockey East"
+            }
+        ],
+        "module": "parser.bceagles",
+        "class": "Parser"
+    },
+    {
+        "college/university": "Boston University",
+        "school name": "Boston University Terriers",
+        "website": "goterriers.com",
+        "urls": [
+            {
+                "url": "https://goterriers.com/sports/womens-ice-hockey/roster#sidearm-roster-coaches",
+                "category": "Women's College Hockey DI Coaches",
+                "location": "Massachusetts",
+                "conference": "Hockey East"
+            }
+        ],
+        "module": "parser.goterriers",
+        "class": "Parser"
+    },
+    {
+        "college/university": "Brown University",
+        "school name": "Brown Bears",
+        "website": "brownbears.com",
+        "urls": [
+            {
+                "url": "https://brownbears.com/sports/womens-ice-hockey/roster#sidearm-roster-coaches",
+                "category": "Women's College Hockey DI Coaches",
+                "location": "Rhode Island",
+                "conference": "ECAC"
+            }
+        ],
+        "module": "parser.brownbears",
+        "class": "Parser"
+    },
+    {
+        "college/university": "Clarkson University",
+        "school name": "Clarkson Golden Knights",
+        "website": "clarksonathletics.com",
+        "urls": [
+            {
+                "url": "https://clarksonathletics.com/sports/womens-ice-hockey/roster#sidearm-roster-coaches",
+                "category": "Women's College Hockey DI Coaches",
+                "location": "New York",
+                "conference": "ECAC"
+            }
+        ],
+        "module": "parser.clarksonathletics",
+        "class": "Parser"
+    },
+    {
+        "college/university": "Colgate University",
+        "school name": "Colgate Raiders",
+        "website": "colgateathletics.com",
+        "urls": [
+            {
+                "url": "https://colgateathletics.com/sports/womens-ice-hockey/roster#sidearm-roster-coaches",
+                "category": "Women's College Hockey DI Coaches",
+                "location": "New York",
+                "conference": "ECAC"
+            }
+        ],
+        "module": "parser.colgateathletics",
+        "class": "Parser"
+    },
+    {
+        "college/university": "University of Connecticut",
+        "school name": "Connecticut Huskies",
+        "website": "uconnhuskies.com",
+        "urls": [
+            {
+                "url": "https://uconnhuskies.com/sports/womens-ice-hockey/roster#sidearm-roster-coaches",
+                "category": "Women's College Hockey DI Coaches",
+                "location": "Connecticut",
+                "conference": "Hockey East"
+            }
+        ],
+        "module": "parser.scsuhuskies",
+        "class": "Parser"
+    },
+    {
+        "college/university": "Cornell University",
+        "school name": "Cornell Big Red",
+        "website": "cornellbigred.com",
+        "urls": [
+            {
+                "url": "https://cornellbigred.com/sports/womens-ice-hockey/roster#sidearm-roster-coaches",
+                "category": "Women's College Hockey DI Coaches",
+                "location": "New York",
+                "conference": "ECAC"
+            }
+        ],
+        "module": "parser.cornellbigred",
+        "class": "Parser"
+    },
+    {
+        "college/university": "Dartmouth College",
+        "school name": "Dartmouth Big Green",
+        "website": "dartmouthsports.com",
+        "urls": [
+            {
+                "url": "https://dartmouthsports.com/sports/womens-ice-hockey/roster#sidearm-roster-coaches",
+                "category": "Women's College Hockey DI Coaches",
+                "location": "New Hampshire",
+                "conference": "ECAC"
+            }
+        ],
+        "module": "parser.dartmouthsports",
+        "class": "Parser"
+    },
+    {
+        "college/university": "Franklin Pierce University",
+        "school name": "Franklin Pierce Ravens",
+        "website": "fpuravens.com",
+        "urls": [
+            {
+                "url": "https://fpuravens.com/sports/wice/coaches/index",
+                "category": "Women's College Hockey DI Coaches",
+                "location": "New Hampshire",
+                "conference": "ECAC"
+            }
+        ],
+        "module": "parser.fpuravens",
+        "class": "Parser"
+    },
+    {
+        "college/university": "Harvard University",
+        "school name": "Harvard Crimson",
+        "website": "gocrimson.com",
+        "urls": [
+            {
+                "url": "https://gocrimson.com/sports/womens-ice-hockey/roster#sidearm-roster-coaches",
+                "category": "Women's College Hockey DI Coaches",
+                "location": "Massachusetts",
+                "conference": "ECAC"
+            }
+        ],
+        "module": "parser.gocrimson",
+        "class": "Parser"
+    },
+    {
+        "college/university": "College of the Holy Cross",
+        "school name": "Holy Cross Crusaders",
+        "website": "goholycross.com",
+        "urls": [
+            {
+                "url": "https://goholycross.com/sports/womens-ice-hockey/roster#sidearm-roster-coaches",
+                "category": "Women's College Hockey DI Coaches",
+                "location": "Massachusetts",
+                "conference": "Hockey East"
+            }
+        ],
+        "module": "parser.goholycross",
+        "class": "Parser"
+    },
+    {
+        "college/university": "Lindenwood University",
+        "school name": "Lindenwood Lions",
+        "website": "lindenwoodlions.com",
+        "urls": [
+            {
+                "url": "https://lindenwoodlions.com/sports/womens-ice-hockey/roster#sidearm-roster-coaches",
+                "category": "Women's College Hockey DI Coaches",
+                "location": "Missouri",
+                "conference": "AHA"
+            }
+        ],
+        "module": "parser.lindenwoodlions",
+        "class": "Parser"
+    },
+    {
+        "college/university": "Long Island University",
+        "school name": "Long Island Sharks",
+        "website": "liuathletics.com",
+        "urls": [
+            {
+                "url": "https://liuathletics.com/sports/womens-ice-hockey/roster#sidearm-roster-coaches",
+                "category": "Women's College Hockey DI Coaches",
+                "location": "New York",
+                "conference": "NEWHA"
+            }
+        ],
+        "module": "parser.liuathletics",
+        "class": "Parser"
+    },
+    {
+        "college/university": "University of Maine",
+        "school name": "Maine Black Bears",
+        "website": "goblackbears.com",
+        "urls": [
+            {
+                "url": "https://goblackbears.com/sports/womens-ice-hockey/roster#sidearm-roster-coaches",
+                "category": "Women's College Hockey DI Coaches",
+                "location": "Maine",
+                "conference": "Hockey East"
+            }
+        ],
+        "module": "parser.goblackbears",
+        "class": "Parser"
+    },
+    {
+        "college/university": "Mercyhurst University",
+        "school name": "Mercyhurst Lakers",
+        "website": "hurstathletics.com",
+        "urls": [
+            {
+                "url": "https://hurstathletics.com/sports/womens-ice-hockey/roster#sidearm-roster-coaches",
+                "category": "Women's College Hockey DI Coaches",
+                "location": "Pennsylvania",
+                "conference": "AHA"
+            }
+        ],
+        "module": "parser.hurstathletics",
+        "class": "Parser"
+    },
+    {
+        "college/university": "Merrimack College",
+        "school name": "Merrimack Warriors",
+        "website": "merrimackathletics.com",
+        "urls": [
+            {
+                "url": "https://merrimackathletics.com/sports/womens-ice-hockey/roster#sidearm-roster-coaches",
+                "category": "Women's College Hockey DI Coaches",
+                "location": "New Hampshire",
+                "conference": "Hockey East"
+            }
+        ],
+        "module": "parser.merrimackathletics",
+        "class": "Parser"
+    },
+    {
+        "college/university": "University of Minnesota",
+        "school name": "Minnesota Golden Gophers",
+        "website": "gophersports.com",
+        "urls": [
+            {
+                "url": "https://gophersports.com/sports/womens-ice-hockey/roster#sidearm-roster-coaches",
+                "category": "Women's College Hockey DI Coaches",
+                "location": "Minnesota",
+                "conference": "WCHA"
+            }
+        ],
+        "module": "parser.gophersports",
+        "class": "Parser"
+    },
+    {
+        "college/university": "Minnesota State University",
+        "school name": "Minnesota State Mavericks",
+        "website": "msumavericks.com",
+        "urls": [
+            {
+                "url": "https://msumavericks.com/sports/womens-ice-hockey/roster#sidearm-roster-coaches",
+                "category": "Women's College Hockey DI Coaches",
+                "location": "Minnesota",
+                "conference": "WCHA"
+            }
+        ],
+        "module": "parser.msumavericks",
+        "class": "Parser"
+    },
+    {
+        "college/university": "University of Minnesota Duluth",
+        "school name": "Minnesota Duluth Bulldogs",
+        "website": "umdbulldogs.com",
+        "urls": [
+            {
+                "url": "https://umdbulldogs.com/sports/womens-ice-hockey/roster#sidearm-roster-coaches",
+                "category": "Women's College Hockey DI Coaches",
+                "location": "Minnesota",
+                "conference": "WCHA"
+            }
+        ],
+        "module": "parser.umdbulldogs",
+        "class": "Parser"
+    },
+    {
+        "college/university": "University of New Hampshire",
+        "school name": "New Hampshire Wildcats",
+        "website": "unhwildcats.com",
+        "urls": [
+            {
+                "url": "https://unhwildcats.com/sports/womens-ice-hockey/roster#sidearm-roster-coaches",
+                "category": "Women's College Hockey DI Coaches",
+                "location": "New Hampshire",
+                "conference": "Hockey East"
+            }
+        ],
+        "module": "parser.unhwildcats",
+        "class": "Parser"
+    },
+    {
+        "college/university": "Northeastern University",
+        "school name": "Northeastern Huskies",
+        "website": "nuhuskies.com",
+        "urls": [
+            {
+                "url": "https://nuhuskies.com/sports/womens-ice-hockey/roster#sidearm-roster-coaches",
+                "category": "Women's College Hockey DI Coaches",
+                "location": "Massachusetts",
+                "conference": "Hockey East"
+            }
+        ],
+        "module": "parser.nuhuskies",
+        "class": "Parser"
+    },
+    {
+        "college/university": "Ohio State University",
+        "school name": "Ohio State Buckeyes",
+        "website": "ohiostatebuckeyes.com",
+        "urls": [
+            {
+                "url": "https://ohiostatebuckeyes.com/sports/womens-ice-hockey/roster#sidearm-roster-coaches",
+                "category": "Women's College Hockey DI Coaches",
+                "location": "Ohio",
+                "conference": "WCHA"
+            }
+        ],
+        "module": "parser.ohiostatebuckeyes",
+        "class": "Parser"
+    },
+    {
+        "college/university": "Penn State University",
+        "school name": "Penn State Nittany Lions",
+        "website": "gopsusports.com",
+        "urls": [
+            {
+                "url": "https://gopsusports.com/sports/womens-ice-hockey/roster#sidearm-roster-coaches",
+                "category": "Women's College Hockey DI Coaches",
+                "location": "Pennsylvania",
+                "conference": "AHA"
+            }
+        ],
+        "module": "parser.gopsusports",
+        "class": "Parser"
+    },
+    {
+        "college/university": "Post University",
+        "school name": "Post Eagles",
+        "website": "posteagles.com",
+        "urls": [
+            {
+                "url": "https://posteagles.com/sports/womens-ice-hockey/roster#sidearm-roster-coaches",
+                "category": "Women's College Hockey DI Coaches",
+                "location": "Connecticut",
+                "conference": "NEWHA"
+            }
+        ],
+        "module": "parser.posteagles",
+        "class": "Parser"
+    },
+    {
+        "college/university": "Princeton University",
+        "school name": "Princeton Tigers",
+        "website": "goprincetontigers.com",
+        "urls": [
+            {
+                "url": "https://goprincetontigers.com/sports/womens-ice-hockey/roster",
+                "category": "Women's College Hockey DI Coaches",
+                "location": "New Jersey",
+                "conference": "ECAC"
+            }
+        ],
+        "module": "parser.princetontigers",
+        "class": "Parser"
+    },
+    {
+        "college/university": "Providence College",
+        "school name": "Providence Friars",
+        "website": "friars.com",
+        "urls": [
+            {
+                "url": "https://friars.com/sports/womens-ice-hockey/roster#sidearm-roster-coaches",
+                "category": "Women's College Hockey DI Coaches",
+                "location": "Rhode Island",
+                "conference": "Hockey East"
+            }
+        ],
+        "module": "parser.friars",
+        "class": "Parser"
+    },
+    {
+        "college/university": "Quinnipiac University",
+        "school name": "Quinnipiac Bobcats",
+        "website": "gobobcats.com",
+        "urls": [
+            {
+                "url": "https://gobobcats.com/sports/womens-ice-hockey/roster/2024-25?path=whockey#sidearm-roster-coaches",
+                "category": "Women's College Hockey DI Coaches",
+                "location": "Connecticut",
+                "conference": "ECAC"
+            }
+        ],
+        "module": "parser.gobobcats",
+        "class": "Parser"
+    },
+    {
+        "college/university": "Rensselaer Polytechnic Institute",
+        "school name": "RPI Engineers",
+        "website": "rpiathletics.com",
+        "urls": [
+            {
+                "url": "https://rpiathletics.com/sports/womens-ice-hockey/roster#sidearm-roster-coaches",
+                "category": "Women's College Hockey DI Coaches",
+                "location": "New York",
+                "conference": "ECAC"
+            }
+        ],
+        "module": "parser.rpiathletics",
+        "class": "Parser"
+    },
+    {
+        "college/university": "Rochester Institute of Technology",
+        "school name": "RIT Tigers",
+        "website": "ritathletics.com",
+        "urls": [
+            {
+                "url": "https://ritathletics.com/sports/womens-ice-hockey/roster#sidearm-roster-coaches",
+                "category": "Women's College Hockey DI Coaches",
+                "location": "New York",
+                "conference": "AHA"
+            }
+        ],
+        "module": "parser.ritathletics",
+        "class": "Parser"
+    },
+    {
+        "college/university": "Robert Morris University",
+        "school name": "Robert Morris Colonials",
+        "website": "rmucolonials.com",
+        "urls": [
+            {
+                "url": "https://rmucolonials.com/sports/womens-ice-hockey/roster#sidearm-roster-coaches",
+                "category": "Women's College Hockey DI Coaches",
+                "location": "Pennsylvania",
+                "conference": "AHA"
+            }
+        ],
+        "module": "parser.rmucolonials",
+        "class": "Parser"
+    },
+    {
+        "college/university": "Sacred Heart University",
+        "school name": "Sacred Heart Pioneers",
+        "website": "sacredheartpioneers.com",
+        "urls": [
+            {
+                "url": "https://sacredheartpioneers.com/sports/womens-ice-hockey/roster#sidearm-roster-coaches",
+                "category": "Women's College Hockey DI Coaches",
+                "location": "Connecticut",
+                "conference": "NEWHA"
+            }
+        ],
+        "module": "parser.sacredheartpioneers",
+        "class": "Parser"
+    },
+    {
+        "college/university": "Saint Anselm College",
+        "school name": "Saint Anselm Hawks",
+        "website": "saintanselmhawks.com",
+        "urls": [
+            {
+                "url": "https://saintanselmhawks.com/sports/womens-ice-hockey/roster#sidearm-roster-coaches",
+                "category": "Women's College Hockey DI Coaches",
+                "location": "New Hampshire",
+                "conference": "NEWHA"
+            }
+        ],
+        "module": "parser.saintanselmhawks",
+        "class": "Parser"
+    },
+    {
+        "college/university": "Saint Cloud State University",
+        "school name": "Saint Cloud State Huskies",
+        "website": "scsuhuskies.com",
+        "urls": [
+            {
+                "url": "https://scsuhuskies.com/sports/womens-ice-hockey/roster",
+                "category": "Women's College Hockey DI Coaches",
+                "location": "Minnesota",
+                "conference": "WCHA"
+            }
+        ],
+        "module": "parser.scsuhuskies",
+        "class": "Parser"
+    },
+    {
+        "college/university": "Saint Lawrence University",
+        "school name": "Saint Lawrence Saints",
+        "website": "saintsathletics.com",
+        "urls": [
+            {
+                "url": "https://saintsathletics.com/sports/womens-ice-hockey/roster#sidearm-roster-coaches",
+                "category": "Women's College Hockey DI Coaches",
+                "location": "New York",
+                "conference": "ECAC"
+            }
+        ],
+        "module": "parser.saintsathletics",
+        "class": "Parser"
+    },
+    {
+        "college/university": "Saint Michael's College",
+        "school name": "Saint Michael's Purple Knights",
+        "website": "smcathletics.com",
+        "urls": [
+            {
+                "url": "https://smcathletics.com/sports/womens-ice-hockey/roster#sidearm-roster-coaches",
+                "category": "Women's College Hockey DI Coaches",
+                "location": "Vermont",
+                "conference": "NEWHA"
+            }
+        ],
+        "module": "parser.smcathletics",
+        "class": "Parser"
+    },
+    {
+        "college/university": "The University of St. Thomas",
+        "school name": "St. Thomas Tommies",
+        "website": "tommiesports.com",
+        "urls": [
+            {
+                "url": "https://tommiesports.com/sports/whockey/roster",
+                "category": "Women's College Hockey DI Coaches",
+                "location": "Minnesota",
+                "conference": "WCHA"
+            }
+        ],
+        "module": "parser.tommiesports",
+        "class": "Parser"
+    },
+    {
+        "college/university": "Stonehill College",
+        "school name": "Stonehill Skyhawks",
+        "website": "stonehillskyhawks.com",
+        "urls": [
+            {
+                "url": "https://stonehillskyhawks.com/sports/womens-ice-hockey/roster#sidearm-roster-coaches",
+                "category": "Women's College Hockey DI Coaches",
+                "location": "Massachusetts",
+                "conference": "NEWHA"
+            }
+        ],
+        "module": "parser.stonehillskyhawks",
+        "class": "Parser"
+    },
+    {
+        "college/university": "Syracuse University",
+        "school name": "Syracuse Orange",
+        "website": "cuse.com",
+        "urls": [
+            {
+                "url": "https://cuse.com/sports/womens-ice-hockey/roster#sidearm-roster-coaches",
+                "category": "Women's College Hockey DI Coaches",
+                "location": "New York",
+                "conference": "AHA"
+            }
+        ],
+        "module": "parser.cuse",
+        "class": "Parser"
+    },
+    {
+        "college/university": "Union College",
+        "school name": "Union Dutchwomen",
+        "website": "unionathletics.com",
+        "urls": [
+            {
+                "url": "https://unionathletics.com/sports/womens-ice-hockey/coaches/",
+                "category": "Women's College Hockey DI Coaches",
+                "location": "New York",
+                "conference": "ECAC"
+            }
+        ],
+        "module": "parser.unionathletics",
+        "class": "Parser"
+    },
+    {
+        "college/university": "University of Vermont",
+        "school name": "Vermont Catamounts",
+        "website": "uvmathletics.com",
+        "urls": [
+            {
+                "url": "https://uvmathletics.com/sports/womens-ice-hockey/roster#sidearm-roster-coaches",
+                "category": "Women's College Hockey DI Coaches",
+                "location": "Vermont",
+                "conference": "Hockey East"
+            }
+        ],
+        "module": "parser.uvmathletics",
+        "class": "Parser"
+    },
+    {
+        "college/university": "University of Wisconsin",
+        "school name": "Wisconsin Badgers",
+        "website": "uwbadgers.com",
+        "urls": [
+            {
+                "url": "https://uwbadgers.com/sports/womens-ice-hockey/roster#sidearm-roster-coaches",
+                "category": "Women's College Hockey DI Coaches",
+                "location": "Wisconsin",
+                "conference": "WCHA"
+            }
+        ],
+        "module": "parser.uwbadgers",
+        "class": "Parser"
+    },
+    {
+        "college/university": "Yale University",
+        "school name": "Yale Bulldogs",
+        "website": "yalebulldogs.com",
+        "urls": [
+            {
+                "url": "https://yalebulldogs.com/sports/womens-ice-hockey/coaches",
+                "category": "Women's College Hockey DI Coaches",
+                "location": "Connecticut",
+                "conference": "ECAC"
+            }
+        ],
+        "module": "parser.yalebulldogs",
+        "class": "Parser"
+    },
+    {
+        "college/university": "University of Delaware",
+        "school name": "Delaware Blue Hens",
+        "website": "bluehens.com",
+        "urls": [
+            {
+                "url": "https://bluehens.com/sports/ice-hockey/coaches",
+                "category": "Women's College Hockey DI Coaches",
+                "location": "Delaware",
+                "conference": "AHA"
+            }
+        ],
+        "module": "parser.bluehens",
+        "class": "Parser"
+    },
+    {
+        "college/university": "Adrian College",
+        "school name": "Adrian Bulldogs",
+        "website": "adrianbulldogs.com",
+        "urls": [
+            {
+                "url": "https://adrianbulldogs.com/sports/womens-ice-hockey/roster#sidearm-roster-coaches",
+                "category": "Women's College Hockey DIII Coaches",
+                "location": "Michigan",
+                "conference": "WNCHA"
+            }
+        ],
+        "module": "parser.adrianbulldogs",
+        "class": "Parser"
+    },
+    {
+        "college/university": "Alvernia University",
+        "school name": "Alvernia Golden Wolves",
+        "website": "auwolves.com",
+        "urls": [
+            {
+                "url": "https://auwolves.com/staff-directory/ice-hockey-women-s-department/53",
+                "category": "Women's College Hockey DIII Coaches",
+                "location": "Pennsylvania",
+                "conference": "MAC"
+            }
+        ],
+        "module": "parser.auwolves",
+        "class": "Parser"
+    },
+    {
+        "college/university": "Amherst College",
+        "school name": "Amherst Mammoths",
+        "website": "athletics.amherst.edu",
+        "urls": [
+            {
+                "url": "https://athletics.amherst.edu/sports/womens-ice-hockey/roster#sidearm-roster-coaches",
+                "category": "Women's College Hockey DIII Coaches",
+                "location": "Massachusetts",
+                "conference": "NESCAC"
+            }
+        ],
+        "module": "parser.amherst",
+        "class": "Parser"
+    },
+    {
+        "college/university": "Arcadia University",
+        "school name": "Anna Maria Amcats",
+        "website": "arcadiaknights.com",
+        "urls": [
+            {
+                "url": "https://arcadiaknights.com/sports/womens-ice-hockey/roster#sidearm-roster-coaches",
+                "category": "Women's College Hockey DIII Coaches",
+                "location": "Pennsylvania",
+                "conference": "MAC"
+            }
+        ],
+        "module": "parser.arcadiaknights",
+        "class": "Parser"
+    },
+    {
+        "college/university": "Augsburg University",
+        "school name": "Augsburg Auggies",
+        "website": "athletics.augsburg.edu",
+        "urls": [
+            {
+                "url": "https://athletics.augsburg.edu/sports/womens-ice-hockey/roster#sidearm-roster-coaches",
+                "category": "Women's College Hockey DIII Coaches",
+                "location": "Minnesota",
+                "conference": "MIAC"
+            }
+        ],
+        "module": "parser.augsburg",
+        "class": "Parser"
+    },
+    {
+        "college/university": "Bethel University",
+        "school name": "Bethel Royals",
+        "website": "athletics.bethel.edu",
+        "urls": [
+            {
+                "url": "https://athletics.bethel.edu/sports/womens-ice-hockey/roster#sidearm-roster-coaches",
+                "category": "Women's College Hockey DIII Coaches",
+                "location": "Minnesota",
+                "conference": "MIAC"
+            }
+        ],
+        "module": "parser.bethel",
+        "class": "Parser"
+    },
+    {
+        "college/university": "Bowdoin College",
+        "school name": "Bowdoin Polar Bears",
+        "website": "athletics.bowdoin.edu",
+        "urls": [
+            {
+                "url": "https://athletics.bowdoin.edu/sports/womens-ice-hockey/roster#sidearm-roster-coaches",
+                "category": "Women's College Hockey DIII Coaches",
+                "location": "Maine",
+                "conference": "NESCAC"
+            }
+        ],
+        "module": "parser.bowdoin",
+        "class": "Parser"
+    },
+    {
+        "college/university": "Buffalo State University",
+        "school name": "Buffalo State Bengals",
+        "website": "buffalostateathletics.com",
+        "urls": [
+            {
+                "url": "https://buffalostateathletics.com/sports/womens-ice-hockey/roster#sidearm-roster-coaches",
+                "category": "Women's College Hockey DIII Coaches",
+                "location": "New York",
+                "conference": "SUNYAC"
+            }
+        ],
+        "module": "parser.buffalostateathletics",
+        "class": "Parser"
+    },
+    {
+        "college/university": "State University of New York",
+        "school name": "Canton Kangaroos",
+        "website": "rooathletics.com",
+        "urls": [
+            {
+                "url": "https://rooathletics.com/sports/womens-ice-hockey/roster#sidearm-roster-coaches",
+                "category": "Women's College Hockey DIII Coaches",
+                "location": "New York",
+                "conference": "SUNYAC"
+            }
+        ],
+        "module": "parser.rooathletics",
+        "class": "Parser"
+    },
+    {
+        "college/university": "Vermont State University",
+        "school name": "Castleton Spartans",
+        "website": "castletonsports.com",
+        "urls": [
+            {
+                "url": "https://castletonsports.com/sports/whockey/roster#sidearm-roster-coaches",
+                "category": "Women's College Hockey DIII Coaches",
+                "location": "Vermont",
+                "conference": "NEHC"
+            }
+        ],
+        "module": "parser.castletonsports",
+        "class": "Parser"
+    },
+    {
+        "college/university": "Chatham University",
+        "school name": "Chatham Cougars",
+        "website": "gochathamcougars.com",
+        "urls": [
+            {
+                "url": "https://gochathamcougars.com/sports/womens-ice-hockey/roster#sidearm-roster-coaches",
+                "category": "Women's College Hockey DIII Coaches",
+                "location": "Pennsylvania",
+                "conference": "UCHC"
+            }
+        ],
+        "module": "parser.gochathamcougars",
+        "class": "Parser"
+    },
+    {
+        "college/university": "Colby College",
+        "school name": "Colby Mules",
+        "website": "colbyathletics.com",
+        "urls": [
+            {
+                "url": "https://colbyathletics.com/sports/womens-ice-hockey/coaches/",
+                "category": "Women's College Hockey DIII Coaches",
+                "location": "Maine",
+                "conference": "NESCAC"
+            }
+        ],
+        "module": "parser.colbyathletics",
+        "class": "Parser"
+    },
+    {
+        "college/university": "Concordia College",
+        "school name": "Concordia Cobbers",
+        "website": "concordiamn.prestosports.com",
+        "urls": [
+            {
+                "url": "https://concordiamn.prestosports.com/sports/wice/coaches/index",
+                "category": "Women's College Hockey DIII Coaches",
+                "location": "Minnesota",
+                "conference": "MIAC"
+            }
+        ],
+        "module": "parser.concordiamn",
+        "class": "Parser"
+    },
+    {
+        "college/university": "Concordia University Wisconsin",
+        "school name": "Concordia Falcons",
+        "website": "cuwfalcons.com",
+        "urls": [
+            {
+                "url": "https://cuwfalcons.com/sports/wice/coaches/index",
+                "category": "Women's College Hockey DIII Coaches",
+                "location": "Wisconsin",
+                "conference": "WNCHA"
+            }
+        ],
+        "module": "parser.cuwfalcons",
+        "class": "Parser"
+    },
+    {
+        "college/university": "Connecticut College",
+        "school name": "Connecticut Camels",
+        "website": "camelathletics.com",
+        "urls": [
+            {
+                "url": "https://camelathletics.com/sports/womens-ice-hockey/roster#sidearm-roster-coaches",
+                "category": "Women's College Hockey DIII Coaches",
+                "location": "Connecticut",
+                "conference": "NESCAC"
+            }
+        ],
+        "module": "parser.camelathletics",
+        "class": "Parser"
+    },
+    {
+        "college/university": "SUNY Cortland",
+        "school name": "Cortland Red Dragons",
+        "website": "cortlandreddragons.com",
+        "urls": [
+            {
+                "url": "https://www.cortlandreddragons.com/sports/womens-ice-hockey/roster#sidearm-roster-coaches",
+                "category": "Women's College Hockey DIII Coaches",
+                "location": "New York",
+                "conference": "SUNYAC"
+            }
+        ],
+        "module": "parser.cortlandreddragons",
+        "class": "Parser"
+    },
+    {
+        "college/university": "Curry College",
+        "school name": "Curry Colonials",
+        "website": "www.curryathletics.com",
+        "urls": [
+            {
+                "url": "https://www.curryathletics.com/sports/wice/coaches/index",
+                "category": "Women's College Hockey DIII Coaches",
+                "location": "Massachusetts",
+                "conference": "UCHC"
+            }
+        ],
+        "module": "parser.curryathletics",
+        "class": "Parser"
+    },
+    {
+        "college/university": "University of Dubuque",
+        "school name": "Dubuque Spartans",
+        "website": "udspartans.com",
+        "urls": [
+            {
+                "url": "https://udspartans.com/sports/womens-hockey/roster#sidearm-roster-coaches",
+                "category": "Women's College Hockey DIII Coaches",
+                "location": "Iowa",
+                "conference": "WNCHA"
+            }
+        ],
+        "module": "parser.udspartans",
+        "class": "Parser"
+    },
+    {
+        "college/university": "Elmira College",
+        "school name": "Elmira Soaring Eagles",
+        "website": "athletics.elmira.edu",
+        "urls": [
+            {
+                "url": "https://athletics.elmira.edu/sports/womens-ice-hockey/roster#sidearm-roster-coaches",
+                "category": "Women's College Hockey DIII Coaches",
+                "location": "New York",
+                "conference": "NEHC"
+            }
+        ],
+        "module": "parser.elmira",
+        "class": "Parser"
+    },
+    {
+        "college/university": "Endicott College",
+        "school name": "Endicott Gulls",
+        "website": "ecgulls.com",
+        "urls": [
+            {
+                "url": "https://ecgulls.com/sports/wice/index#coaches",
+                "category": "Women's College Hockey DIII Coaches",
+                "location": "Massachusetts",
+                "conference": "CCC"
+            }
+        ],
+        "module": "parser.ecgulls",
+        "class": "Parser"
+    },
+    {
+        "college/university": "Framingham State University",
+        "school name": "Framingham State Rams",
+        "website": "www.fsurams.com",
+        "urls": [
+            {
+                "url": "https://www.fsurams.com/sports/wice/coaches/index",
+                "category": "Women's College Hockey DIII Coaches",
+                "location": "Massachusetts",
+                "conference": "MASCAC"
+            }
+        ],
+        "module": "parser.fsurams",
+        "class": "Parser"
+    },
+    {
+        "college/university": "Gustavus Adolphus College",
+        "school name": "Gustavus Adolphus Golden Gusties",
+        "website": "gogusties.com",
+        "urls": [
+            {
+                "url": "https://gogusties.com/sports/womens-ice-hockey/roster#sidearm-roster-coaches",
+                "category": "Women's College Hockey DIII Coaches",
+                "location": "Minnesota",
+                "conference": "MIAC"
+            }
+        ],
+        "module": "parser.gogusties",
+        "class": "Parser"
+    },
+    {
+        "college/university": "Hamilton College",
+        "school name": "Hamilton Continentals",
+        "website": "athletics.hamilton.edu",
+        "urls": [
+            {
+                "url": "https://athletics.hamilton.edu/sports/whockey/roster#sidearm-roster-coaches",
+                "category": "Women's College Hockey DIII Coaches",
+                "location": "New York",
+                "conference": "NESCAC"
+            }
+        ],
+        "module": "parser.hamilton",
+        "class": "Parser"
+    },
+    {
+        "college/university": "Hamline University",
+        "school name": "Hamline Pipers",
+        "website": "hamlineathletics.com",
+        "urls": [
+            {
+                "url": "https://hamlineathletics.com/sports/womens-ice-hockey/roster#sidearm-roster-coaches",
+                "category": "Women's College Hockey DIII Coaches",
+                "location": "Minnesota",
+                "conference": "MIAC"
+            }
+        ],
+        "module": "parser.hamlineathletics",
+        "class": "Parser"
+    },
+    {
+        "college/university": "Hilbert College",
+        "school name": "Hilbert Hawks",
+        "website": "hilberthawks.com",
+        "urls": [
+            {
+                "url": "https://hilberthawks.com/sports/whky/roster/#sidearm-roster-coaches",
+                "category": "Women's College Hockey DIII Coaches",
+                "location": "New York",
+                "conference": "AMCC"
+            }
+        ],
+        "module": "parser.hilberthawks",
+        "class": "Parser"
+    },
+    {
+        "college/university": "Hood College",
+        "school name": "Hood Blazers",
+        "website": "hoodathletics.com",
+        "urls": [
+            {
+                "url": "https://hoodathletics.com/sports/womens-ice-hockey/roster#sidearm-roster-coaches",
+                "category": "Women's College Hockey DIII Coaches",
+                "location": "Maryland",
+                "conference": "MAC"
+            }
+        ],
+        "module": "parser.hoodathletics",
+        "class": "Parser"
+    },
+    {
+        "college/university": "Keene State College",
+        "school name": "Keene State Owls",
+        "website": "keeneowls.com",
+        "urls": [
+            {
+                "url": "https://keeneowls.com/sports/womens-ice-hockey/roster#sidearm-roster-coaches",
+                "category": "Women's College Hockey DIII Coaches",
+                "location": "New Hampshire",
+                "conference": "Independent"
+            }
+        ],
+        "module": "parser.keeneowls",
+        "class": "Parser"
+    },
+    {
+        "college/university": "King's College",
+        "school name": "King's Monarchs",
+        "website": "kingscollegeathletics.com",
+        "urls": [
+            {
+                "url": "https://kingscollegeathletics.com/sports/womens-ice-hockey/roster#sidearm-roster-coaches",
+                "category": "Women's College Hockey DIII Coaches",
+                "location": "Pennsylvania",
+                "conference": "MAC"
+            }
+        ],
+        "module": "parser.kingscollegeathletics",
+        "class": "Parser"
+    },
+    {
+        "college/university": "Lake Forest College",
+        "school name": "Lake Forest Foresters",
+        "website": "goforesters.com",
+        "urls": [
+            {
+                "url": "https://goforesters.com/sports/womens-ice-hockey/roster#sidearm-roster-coaches",
+                "category": "Women's College Hockey DIII Coaches",
+                "location": "Illinois",
+                "conference": "WNCHA"
+            }
+        ],
+        "module": "parser.goforesters",
+        "class": "Parser"
+    },
+    {
+        "college/university": "Lawrence University",
+        "school name": "Lawrence Vikings",
+        "website": "vikings.lawrence.edu",
+        "urls": [
+            {
+                "url": "https://vikings.lawrence.edu/sports/womens-ice-hockey/roster#sidearm-roster-coaches",
+                "category": "Women's College Hockey DIII Coaches",
+                "location": "Wisconsin",
+                "conference": "WNCHA"
+            }
+        ],
+        "module": "parser.vikings",
+        "class": "Parser"
+    }
+]
